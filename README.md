@@ -38,8 +38,7 @@ Users should be able to:
 
 ### Links
 
-Solution URL: Add solution URL here
-Live Site URL: Add live site URL here
+Live Site URL: https://multi-step-form-hp.netlify.app/
 
 ### My process
 
