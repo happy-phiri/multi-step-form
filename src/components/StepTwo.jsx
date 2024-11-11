@@ -134,7 +134,7 @@ const StepTwo = () => {
       </div>
 
       {/* PREV AND NEXT BUTTONS */}
-      <div className="lg:bg-white lg:w-[80%] lg:mx-auto mt-10 lg:mt-20 flex flex-row flex-nowrap justify-between items-center max-lg:mb-10">
+      <div className="lg:bg-white lg:w-[80%] lg:mx-auto mt-16 lg:mt-20 flex flex-row flex-nowrap justify-between items-center max-lg:mb-10">
         <Link
           to=".."
           className="text-cool-gray font-medium tracking-wide hover:text-marine-blue">
