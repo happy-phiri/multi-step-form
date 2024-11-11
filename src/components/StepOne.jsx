@@ -44,7 +44,7 @@ const StepOne = () => {
   };
 
   return (
-    <section className="font-ubuntu max-lg:absolute top-[18%] left-0 right-0 w-[90%] mx-auto lg:bg-white lg:w-full lg:h-full lg:py-7 lg:rounded-tr-lg lg:rounded-br-lg">
+    <section className="font-ubuntu max-lg:absolute top-[20%] left-0 right-0 w-[90%] mx-auto lg:bg-white lg:w-full lg:h-full lg:py-7 lg:rounded-tr-lg lg:rounded-br-lg">
       <div className="lg:w-[80%] max-lg:px-4 max-lg:py-8 max-lg:rounded-lg mx-auto bg-white ">
         <h2 className="text-2xl lg:text-4xl text-marine-blue tracking-wide">
           Personal info
